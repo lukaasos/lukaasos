@@ -21,4 +21,4 @@ Estou aberto a novas oportunidades para aplicar minhas habilidades em projetos i
 📫 **Entre em contato:**
 
 <a href="mailto:lucasrangelcoringa@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="[[https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/lucas-coringa/)](https://www.linkedin.com/in/lucas-coringa/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/lucas-coringa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
