@@ -19,12 +19,12 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 Estou aberto a novas oportunidades para aplicar minhas habilidades em projetos inovadores, seja no setor ambiental, financeiro, ou em outros campos desafiadores. Se você está interessado em colaborar ou tem alguma sugestão, sinta-se à vontade para entrar em contato!
 
 <p align="center">
-  <img src="[URL_LOGO_1.png](https://github.com/lukaasos/logos/blob/main/pythonlogo.png)" alt="Logo 1" width="20" height="20">
-  <img src="[URL_LOGO_2.png](https://github.com/lukaasos/logos/blob/main/sqllogo.png)" alt="Logo 2" width="20" height="20">
-  <img src="[URL_LOGO_3.png](https://github.com/lukaasos/logos/blob/main/logogithub.png)" alt="Logo 3" width="20" height="20">
-  <img src="[URL_LOGO_4.png](https://github.com/lukaasos/logos/blob/main/aws.png)" alt="Logo 4" width="20" height="20">
-  <img src="[URL_LOGO_5.png](https://github.com/lukaasos/logos/blob/main/powerbi.png)" alt="Logo 5" width="20" height="20">
-  <img src="[URL_LOGO_6.png](https://github.com/lukaasos/logos/blob/main/qgislogo.png)" alt="Logo 6" width="20" height="20">
+  <img src="https://github.com/lukaasos/logos/blob/main/pythonlogo.png?raw=true" alt="Logo 1" width="60" height="60">
+  <img src="https://github.com/lukaasos/logos/blob/main/sqllogo.png?raw=true" alt="Logo 2" width="60" height="60">
+  <img src="https://github.com/lukaasos/logos/blob/main/logogithub.png?raw=true" alt="Logo 3" width="60" height="60">
+  <img src="https://github.com/lukaasos/logos/blob/main/aws.png?raw=true" alt="Logo 4" width="60" height="60">
+  <img src="https://github.com/lukaasos/logos/blob/main/powerbi.png?raw=true" alt="Logo 5" width="60" height="60">
+  <img src="https://github.com/lukaasos/logos/blob/main/qgislogo.png?raw=true" alt="Logo 6" width="60" height="60">
 </p>
 
 📫 **Entre em contato:**
