@@ -18,7 +18,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 
 Estou aberto a novas oportunidades para aplicar minhas habilidades em projetos inovadores, seja no setor ambiental, financeiro, ou em outros campos desafiadores. Se você está interessado em colaborar ou tem alguma sugestão, sinta-se à vontade para entrar em contato!
 
-📫 **Entre em contato:** lucasrangelcoringa@gmail.com | [LinkedIn](https://www.linkedin.com/in/lucas-coringa/)
+📫 **Entre em contato:**
 
 <a href="mailto:lucasrangelcoringa@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="[https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/lucas-coringa/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
