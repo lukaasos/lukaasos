@@ -9,7 +9,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 
     Linguagens: Python e SQL
     Ferramentas: QGIS, Power Bi, Google Data Studio, AWS Athena, S3 Buckets, AWS IAM, AWS Lambda
-    Análise de Dados: Pandas, NumPy, Xarray, Geopandas, Matplotlib, Seaborn, SciPy, Scikit-learn
+    Análise de Dados: Pandas, NumPy, Xarray, Geopandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Machine Learning
     Sensoriamento Remoto: GEDI, ERA5, LiDAR, MODIS
     Computação em Nuvem: Amazon Web Service (AWS)
     Visualização de Dados: Matplotlib, Seaborn, Basemap, Power BI, Google Data Studio, Excel
