@@ -14,6 +14,10 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
     Computação em Nuvem: Amazon Web Service (AWS)
     Visualização de Dados: Matplotlib, Seaborn, Basemap, Power BI, Google Data Studio, Excel
 
+**Detalhes**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=anurag)
+
+
 💻 **Vamos colaborar!**
 
 Estou aberto a novas oportunidades para aplicar minhas habilidades em projetos inovadores, seja no setor ambiental, financeiro, ou em outros campos desafiadores. Se você está interessado em colaborar ou tem alguma sugestão, sinta-se à vontade para entrar em contato!
