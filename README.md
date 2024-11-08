@@ -20,9 +20,9 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 
 **Projetos**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_1_loggi&theme=anurag)](https://github.com/lukaasos/ebac-project_1_loggi
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_2_credit&theme=anurag)](https://github.com/lukaasos/ebac-project_2_credit
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=earthdata_aod&theme=anurag)](https://github.com/lukaasos/earthdata_aod
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_1_loggi&theme=anurag)](https://github.com/lukaasos/ebac-project_1_loggi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_2_credit&theme=anurag)](https://github.com/lukaasos/ebac-project_2_credit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=earthdata_aod&theme=anurag)](https://github.com/lukaasos/earthdata_aod)
 
 
 💻 **Vamos colaborar!**
