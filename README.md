@@ -5,7 +5,7 @@ Sou meteorologista pela Universidade Federal do Pará e atualmente Mestrando em 
 
 Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar novos conhecimentos em projetos inovadores, especialmente em ciência de dados.
 
-🛠️ **Habilidades Técnicas**
+🛠️ **Habilidades técnicas**
 
     Linguagens: Python e SQL
     Ferramentas: QGIS, Power Bi, Google Data Studio, AWS Athena, S3 Buckets, AWS IAM, AWS Lambda
@@ -18,12 +18,15 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=anurag)
 
-**Projetos**
+**Projetos em destaque**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_1_loggi&theme=anurag)](https://github.com/lukaasos/ebac-project_1_loggi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_2_credit&theme=anurag)](https://github.com/lukaasos/ebac-project_2_credit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=earthdata_aod&theme=anurag)](https://github.com/lukaasos/earthdata_aod)
 
+**Linguagens utilizadas**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&theme=anurag)
 
 💻 **Vamos colaborar!**
 
