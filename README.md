@@ -15,6 +15,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
     Visualização de Dados: Matplotlib, Seaborn, Basemap, Power BI, Google Data Studio, Excel
 
 **Detalhes**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=anurag)
 
 
