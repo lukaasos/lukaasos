@@ -14,11 +14,11 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
     Computação em Nuvem: Amazon Web Service (AWS)
     Visualização de Dados: Matplotlib, Seaborn, Basemap, Power BI, Google Data Studio, Excel
 
-**Detalhes**
+📊 **Detalhes**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=anurag)
 
-**Projetos em destaque**
+🌟 **Projetos em destaque**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_1_loggi&theme=anurag)](https://github.com/lukaasos/ebac-project_1_loggi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_2_credit&theme=anurag)](https://github.com/lukaasos/ebac-project_2_credit)
