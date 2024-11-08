@@ -24,10 +24,6 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_2_credit&theme=anurag)](https://github.com/lukaasos/ebac-project_2_credit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=earthdata_aod&theme=anurag)](https://github.com/lukaasos/earthdata_aod)
 
-**Linguagens utilizadas**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&theme=anurag)
-
 💻 **Vamos colaborar!**
 
 Estou aberto a novas oportunidades para aplicar minhas habilidades em projetos inovadores, seja no setor ambiental, financeiro, ou em outros campos desafiadores. Se você está interessado em colaborar ou tem alguma sugestão, sinta-se à vontade para entrar em contato!
