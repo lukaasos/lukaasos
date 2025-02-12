@@ -45,7 +45,6 @@ Projetos em destaque: [Telegram Pipeline](https://github.com/lukaasos/telegram-p
 [**Centro Gestor e Operacional do Sistema de Proteção da Amazônia**](https://www.gov.br/censipam/pt-br) • Estágio \
 Analista C&T em Meteorologia: `Meteorologia`, `Python`, `Ciência de Dados`, `Análise de Dados`, `Ciĉencias Ambientais` \
 <br/>
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://ascom.ufpa.br/images/Brasao/UFPA.png"/>](https://ufpa.br/)
 
@@ -53,6 +52,7 @@ Analista C&T em Meteorologia: `Meteorologia`, `Python`, `Ciência de Dados`, `An
 [**Universidade Federal do Pará**](https://ufpa.br/) • Meio Período \
 Ciência: `Python`, `Ciências Ambientais`, `Meteorologia`, `Ciência de Dados`, `Sensoriamento Remoto`, `GIS`, `Análise de Dados`\
 Projetos em destaque: [Mapas ERA5](https://github.com/lukaasos/era5_land_monthly_python_maps), [Forecast Maps](https://github.com/lukaasos/forecast_maps)
+<br/>
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
