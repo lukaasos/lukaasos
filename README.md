@@ -55,23 +55,23 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=lukaasos&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
+        src="https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&hide_border=true"
+        alt="GitHub Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&langs_count=6&theme=dark&hide_border=true"
+        alt="Top Languages"
       />
     </td>
     <td>
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=lukaasos&theme=dark&hide_border=false"
-        alt="Github Stats"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lukaasos&theme=dark&hide_border=true"
+        alt="GitHub Streak"
       />
     </td>
   </tr>
