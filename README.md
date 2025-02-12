@@ -27,15 +27,15 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=telegram-pipeline&theme=anurag)](https://github.com/lukaasos/telegram-pipeline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=forecast_maps&theme=anurag)](https://github.com/lukaasos/forecast_maps)
 
-### Experiência de trabalho
+💼 **Experiência de trabalho**
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+**Analista de dados** \
+[**Em Transição de Carreira**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `Machine Learning`, `Computação em Nuvem`, `Amazon Web Services`, `Big Data`, `SQL`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
