@@ -48,7 +48,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 ![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-4285F4?style=flat&logo=Google-Analytics&logoColor=white) 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)  
 
-## 📊 **Detalhes**
+## 📊 **Analytics**
 
 <table>
   <tr>
