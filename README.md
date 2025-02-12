@@ -39,12 +39,12 @@ Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `M
 Projetos em destaque: [Telegram Pipeline](https://github.com/lukaasos/telegram-pipeline), [Loggi](https://github.com/lukaasos/ebac-project_1_loggi)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://ufpa.br/brasao/"/>](https://ufpa.br/brasao/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Pesquisador de Iniciação Científica** \
+[**Universidade Federal do Pará Universidade Federal do Pará**](https://ufpa.br/) • Meio Período \
+Ciência: `Python`, `Ciências Ambientais`, `Meteorologia`, `Ciência de Dados`, `Sensoriamento Remoto`, `GIS`, `Análise de Dados`\
+Projetos em destaque: [Mapas ERA5](https://github.com/lukaasos/era5_land_monthly_python_maps), [Forecast Maps](https://github.com/lukaasos/forecast_maps)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
