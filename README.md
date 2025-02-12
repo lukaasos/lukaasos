@@ -34,7 +34,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
 **Analista de dados** \
-[**Em Transição de Carreira**](https://www.spacex.com/) • Full-time \
+[**Em Transição de Carreira**]([https://www.spacex.com/](https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/)) • Full-time \
 Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `Machine Learning`, `Computação em Nuvem`, `Amazon Web Services`, `Big Data`, `SQL`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
