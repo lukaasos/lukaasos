@@ -39,21 +39,20 @@ Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `M
 Projetos em destaque: [Telegram Pipeline](https://github.com/lukaasos/telegram-pipeline), [Loggi](https://github.com/lukaasos/ebac-project_1_loggi)
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://panorama.sipam.gov.br/panorama/img/logo/VLogoVNegativo.png"/>]([https://nubank.com.br/](https://www.gov.br/censipam/pt-br))
+
+**Estagiário de Meteorologia** \
+[**Centro Gestor e Operacional do Sistema de Proteção da Amazônia**](https://www.gov.br/censipam/pt-br) • Estágio \
+Analista C&T em Meteorologia: `Meteorologia`, `Python`, `Ciência de Dados`, `Análise de Dados`, `Ciĉencias Ambientais` \
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://ascom.ufpa.br/images/Brasao/UFPA.png"/>](https://ufpa.br/)
 
 **Pesquisador de Iniciação Científica** \
-[**Universidade Federal do Pará Universidade Federal do Pará**](https://ufpa.br/) • Meio Período \
+[**Universidade Federal do Pará**](https://ufpa.br/) • Meio Período \
 Ciência: `Python`, `Ciências Ambientais`, `Meteorologia`, `Ciência de Dados`, `Sensoriamento Remoto`, `GIS`, `Análise de Dados`\
 Projetos em destaque: [Mapas ERA5](https://github.com/lukaasos/era5_land_monthly_python_maps), [Forecast Maps](https://github.com/lukaasos/forecast_maps)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
