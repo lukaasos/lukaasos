@@ -70,7 +70,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lukaasos&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
