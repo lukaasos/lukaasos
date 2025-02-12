@@ -15,15 +15,13 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
     Visualização de Dados: Matplotlib, Seaborn, Basemap, Power BI, Google Data Studio, Excel
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![AWS Athena](https://img.shields.io/badge/-AWS%20Athena-232F3E?style=flat&logo=Amazon-AWS&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=AWS-Lambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=Amazon-S3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/-AWS%20IAM-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=QGIS&logoColor=white)
 
 📊 **Detalhes**
 
