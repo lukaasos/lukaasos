@@ -55,8 +55,6 @@ Projetos em destaque: [Mapas ERA5](https://github.com/lukaasos/era5_land_monthly
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
 💻 **Vamos colaborar!**
 
 Estou aberto a novas oportunidades para aplicar minhas habilidades em projetos inovadores, seja no setor ambiental, financeiro, ou em outros campos desafiadores. Se você está interessado em colaborar ou tem alguma sugestão, sinta-se à vontade para entrar em contato!
