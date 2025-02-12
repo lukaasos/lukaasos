@@ -93,15 +93,6 @@ Projetos em destaque: [Mapas ERA5](https://github.com/lukaasos/era5_land_monthly
 
 Estou aberto a novas oportunidades para aplicar minhas habilidades em projetos inovadores, seja no setor ambiental, financeiro, ou em outros campos desafiadores. Se você está interessado em colaborar ou tem alguma sugestão, sinta-se à vontade para entrar em contato!
 
-<p align="center">
-  <img src="https://github.com/lukaasos/logos/blob/main/pythonlogo.png?raw=true" alt="Logo 1" width="80" height="80">
-  <img src="https://github.com/lukaasos/logos/blob/main/sqllogo.png?raw=true" alt="Logo 2" width="60" height="60">
-  <img src="https://github.com/lukaasos/logos/blob/main/logogithub.png?raw=true" alt="Logo 3" width="80" height="80">
-  <img src="https://github.com/lukaasos/logos/blob/main/aws.png?raw=true" alt="Logo 4" width="70" height="60">
-  <img src="https://github.com/lukaasos/logos/blob/main/powerbi.png?raw=true" alt="Logo 5" width="60" height="60">
-  <img src="https://github.com/lukaasos/logos/blob/main/qgislogo.png?raw=true" alt="Logo 6" width="60" height="60">
-</p>
-
 ## 📫 **Entre em contato:**
 
 <a href="mailto:lucasrangelcoringa@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
