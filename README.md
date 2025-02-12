@@ -14,7 +14,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
     Computação em Nuvem: Amazon Web Service (AWS)
     Visualização de Dados: Matplotlib, Seaborn, Basemap, Power BI, Google Data Studio, Excel
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=#3776AB)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
