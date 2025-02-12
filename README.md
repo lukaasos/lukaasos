@@ -39,7 +39,7 @@ Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `M
 Projetos em destaque: [Telegram Pipeline](https://github.com/lukaasos/telegram-pipeline), [Loggi](https://github.com/lukaasos/ebac-project_1_loggi)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://ufpa.br/wp-content/uploads/2023/12/Brasao-UFPA-colorido.png"/>](https://ufpa.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://ascom.ufpa.br/images/Brasao/UFPA.png"/>](https://ufpa.br/)
 
 **Pesquisador de Iniciação Científica** \
 [**Universidade Federal do Pará Universidade Federal do Pará**](https://ufpa.br/) • Meio Período \
