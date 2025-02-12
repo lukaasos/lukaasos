@@ -16,7 +16,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 
 📊 **Detalhes**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=anurag)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaasos&theme=dark&show_icons=true)
 
 🌟 **Projetos em destaque**
 
