@@ -1,7 +1,7 @@
 # **Olá, eu sou o Lucas!** 👋
 ## 🌍 **Sobre mim**
 
-Sou meteorologista pela Universidade Federal do Pará e atualmente Mestrando em Ciências Ambientais no PPGCA. Tenho experiência em análise de dados ambientais, sensoriamento remoto e modelagem climática, além de estar expandindo minhas habilidades em análise de dados em diversas áreas, como logística e finanças.
+Sou meteorologista pela UFPA, Analista de Dados pela EBAC e fui estagiário em meteorologia pelo CENSIPAM. Atualmente sou mestrando em Ciências Ambientais pelo PPGCA. Tenho experiência em pesquisa científica e análise de dados ambientais. Durante minha trajetória, desenvolvi projetos utilizando tecnologias de sensoriamento remoto e análise de dados com python.
 
 Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar novos conhecimentos em projetos inovadores, especialmente em ciência de dados.
 
