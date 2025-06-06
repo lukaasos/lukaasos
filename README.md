@@ -90,7 +90,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="transicaoemcarreira" src="https://media.licdn.com/dms/image/v2/C4E0BAQF_bjAsAi7Lrw/company-logo_200_200/company-logo_200_200/0/1631349730488?e=1747267200&v=beta&t=dPr3M9aGchsmRJ7lAGz74n5xaJD6MhbhcyhR0rUkM8c"/>]([https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/](https://media.licdn.com/dms/image/v2/C4E0BAQF_bjAsAi7Lrw/company-logo_200_200/company-logo_200_200/0/1631349730488?e=1754524800&v=beta&t=1Pe4SFfURjvUVJwdfgjmpgBVkzaczajSyR03VKF4MtA))
+[![transicaoemcarreira](https://media.licdn.com/dms/image/v2/C4E0BAQF_bjAsAi7Lrw/company-logo_200_200/company-logo_200_200/0/1631349730488?e=1754524800&v=beta&t=1Pe4SFfURjvUVJwdfgjmpgBVkzaczajSyR03VKF4MtA)](https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/)
 
 **Analista de dados** \
 [**Em Transição de Carreira**](https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/) • Full-time \
