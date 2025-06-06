@@ -90,29 +90,34 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[![transicaoemcarreira](https://media.licdn.com/dms/image/v2/C4E0BAQF_bjAsAi7Lrw/company-logo_200_200/company-logo_200_200/0/1631349730488?e=1754524800&v=beta&t=1Pe4SFfURjvUVJwdfgjmpgBVkzaczajSyR03VKF4MtA)](https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/)
+<a href="https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/">
+  <img align="left" height="94px" width="94px" alt="Transição de Carreira" src="https://media.licdn.com/dms/image/v2/C4E0BAQF_bjAsAi7Lrw/company-logo_200_200/company-logo_200_200/0/1631349730488?e=1754524800&v=beta&t=1Pe4SFfURjvUVJwdfgjmpgBVkzaczajSyR03VKF4MtA"/>
+</a>
 
-**Analista de dados** \
-[**Em Transição de Carreira**](https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `Machine Learning`, `Computação em Nuvem`, `Amazon Web Services`, `Big Data`, `SQL`,\
-Projetos em destaque: [Telegram Pipeline](https://github.com/lukaasos/telegram-pipeline), [Loggi](https://github.com/lukaasos/ebac-project_1_loggi)
-<br/>
+**Analista de dados**  
+[**Em Transição de Carreira**](https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/) • Full-time  
+Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `Machine Learning`, `Computação em Nuvem`, `Amazon Web Services`, `Big Data`, `SQL`  
+Projetos em destaque: [Telegram Pipeline](https://github.com/lukaasos/telegram-pipeline), [Loggi](https://github.com/lukaasos/ebac-project_1_loggi)  
+<br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://panorama.sipam.gov.br/panorama/img/logo/VLogoVNegativo.png"/>]([https://nubank.com.br/](https://www.gov.br/censipam/pt-br))
+<a href="https://www.gov.br/censipam/pt-br">
+  <img align="left" height="94px" width="94px" alt="CENSIPAM" src="https://panorama.sipam.gov.br/panorama/img/logo/VLogoVNegativo.png"/>
+</a>
 
-**Estagiário de Meteorologia** \
-[**Centro Gestor e Operacional do Sistema de Proteção da Amazônia**](https://www.gov.br/censipam/pt-br) • Estágio \
-Analista C&T em Meteorologia: `Meteorologia`, `Python`, `Ciência de Dados`, `Análise de Dados`, `Ciĉencias Ambientais` \
-<br/>
+**Estagiário de Meteorologia**  
+[**Centro Gestor e Operacional do Sistema de Proteção da Amazônia**](https://www.gov.br/censipam/pt-br) • Estágio  
+Analista C&T em Meteorologia: `Meteorologia`, `Python`, `Ciência de Dados`, `Análise de Dados`, `Ciências Ambientais`  
+<br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://ascom.ufpa.br/images/Brasao/UFPA.png"/>](https://ufpa.br/)
+<a href="https://ufpa.br/">
+  <img align="left" height="94px" width="94px" alt="UFPA" src="https://ascom.ufpa.br/images/Brasao/UFPA.png"/>
+</a>
 
-**Pesquisador de Iniciação Científica** \
-[**Universidade Federal do Pará**](https://ufpa.br/) • Meio Período \
-Ciência: `Python`, `Ciências Ambientais`, `Meteorologia`, `Ciência de Dados`, `Sensoriamento Remoto`, `GIS`, `Análise de Dados`\
-Projetos em destaque: [Mapas ERA5](https://github.com/lukaasos/era5_land_monthly_python_maps), [Forecast Maps](https://github.com/lukaasos/forecast_maps)
-<br/>
-<br/>
+**Pesquisador de Iniciação Científica**  
+[**Universidade Federal do Pará**](https://ufpa.br/) • Meio Período  
+Ciência: `Python`, `Ciências Ambientais`, `Meteorologia`, `Ciência de Dados`, `Sensoriamento Remoto`, `GIS`, `Análise de Dados`  
+Projetos em destaque: [Mapas ERA5](https://github.com/lukaasos/era5_land_monthly_python_maps), [Forecast Maps](https://github.com/lukaasos/forecast_maps)  
+<br clear="left"/>
 
 ## 💻 **Vamos colaborar!**
 
