@@ -51,6 +51,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 ## 📊 **Analytics**
 
 <table>
+  ![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=lukaasos)
   <!-- <tr>
     <td>
       <img
