@@ -55,15 +55,15 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=1800"
-        alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&count_private=true&hide=prs&theme=dark&hide_border=true&cache_seconds=1800"
+        alt="GitHub Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://streak-stats.demolab.com?user=lukaasos&theme=dark&hide_border=true"
-        alt="GitHub Streak"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=1800"
+        alt="Top Languages"
       />
     </td>
     <td>
