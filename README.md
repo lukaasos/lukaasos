@@ -55,7 +55,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&count_private=true&hide=prs&theme=dark&hide_border=true&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&count_private=true&hide=prs&theme=dark&hide_border=true"
         alt="GitHub Stats"
       />
     </td>
