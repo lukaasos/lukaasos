@@ -89,18 +89,16 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<a href="https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/">
-  <img align="left" height="94px" width="94px" alt="Transição de Carreira" src="https://media.licdn.com/dms/image/v2/C4E0BAQF_bjAsAi7Lrw/company-logo_200_200/company-logo_200_200/0/1631349730488?e=1754524800&v=beta&t=1Pe4SFfURjvUVJwdfgjmpgBVkzaczajSyR03VKF4MtA"/>
+<a href="https://icarebrasil.com/">
+  <img align="left" height="94px" width="94px" alt="Transição de Carreira" src="https://icarebrasil.com/wp-content/uploads/2024/01/I-Care.jpg"/>
 </a>
 
 **Analista de dados**  
-[**Em Transição de Carreira**](https://www.linkedin.com/company/transi%C3%A7%C3%A3o-de-carreira---career-transition/) • Full-time  
-Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `Machine Learning`, `Computação em Nuvem`, `Amazon Web Services`, `Big Data`, `SQL`  
-Projetos em destaque: [Telegram Pipeline](https://github.com/lukaasos/telegram-pipeline), [Loggi](https://github.com/lukaasos/ebac-project_1_loggi)  
-<br clear="left"/>
+[**I Care Brasil**](https://icarebrasil.com/) • Full-time  
+Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `geoprocessamento`, `QGIS`, `Clima`, `Sensoriamento Remoto`, `Computação em Nuvem`, `Amazon Web Services`, `Big Data`. 
 
 <a href="https://www.gov.br/censipam/pt-br">
-  <img align="left" height="94px" width="94px" alt="CENSIPAM" src="https://panorama.sipam.gov.br/panorama/img/logo/VLogoVNegativo.png"/>
+  <img align="left" height="94px" width="94px" alt="CENSIPAM" src="https://yt3.googleusercontent.com/5A25qL4vcjyAMiaNYc7cGZOc3VZu14G0PQhAh0er1yG58mfRM_zto9jLVPHD3emezshqf8V2=s900-c-k-c0x00ffffff-no-rj"/>
 </a>
 
 **Estagiário de Meteorologia**  
