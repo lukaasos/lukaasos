@@ -51,7 +51,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
 ## 📊 **Analytics**
 
 <table>
-  <tr>
+  <!-- <tr>
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=dark&hide_border=true"
@@ -64,7 +64,7 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=1800"
         alt="Top Languages"
       />
-    </td>
+    </td> -->
     <td>
       <br />
       <img
