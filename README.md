@@ -77,15 +77,6 @@ Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar n
   </tr>
 </table>
 
-## 🌟 **Projetos em destaque**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=lukaasos&repo=ebac-project_1_loggi&theme=anurag)](https://github.com/lukaasos/ebac-project_1_loggi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-project_2_credit&theme=anurag)](https://github.com/lukaasos/ebac-project_2_credit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=earthdata_aod&theme=anurag)](https://github.com/lukaasos/earthdata_aod)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=ebac-music_project&theme=anurag)](https://github.com/lukaasos/ebac-music_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=telegram-pipeline&theme=anurag)](https://github.com/lukaasos/telegram-pipeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukaasos&repo=forecast_maps&theme=anurag)](https://github.com/lukaasos/forecast_maps)
-
 ## 💼 **Experiência de trabalho**
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
