@@ -89,34 +89,28 @@ timeline
     2020 : UFPA - Pesquisador de Iniciação Científica
     2022 : CENSIPAM - Estagiário em Meteorologia
     2024 : PPGCA/UFPA - Mestrado em Ciências Ambientais
-    2026 : I Care Brasil - Analista de Dados```
+    2025 : I Care Brasil - Analista de Dados```
 ```
-
-**🗓️ Linha do Tempo Acadêmica & Profissional**
-* **2020** — 🎓 Pesquisador de Iniciação Científica (UFPA)
-* **2022** — 🛰️ Estagiário em Meteorologia (CENSIPAM)
-* **2024** — 🎓 Mestrado em Ciências Ambientais (PPGCA/UFPA)
-* **2026** — 🏢 Analista de Dados (I Care Brasil)
 ---
 ### 🏢 **Analista de Dados** | [**I Care Brasil**](https://icarebrasil.com/)
-*Janeiro de 2026 — Presente*
+*Dezembro de 2025 — Presente*
 * Desenvolvimento de rotinas em `Python` para análise de dados climáticos e modelagem ambiental.
 * Processamento e análise de imagens de satélite e dados de **Sensoriamento Remoto**.
 * Implementação de pipelines escaláveis na nuvem **AWS** (S3, Athena, Lambda).
 * Criação de mapas temáticos no **QGIS** e visualizações de impacto ambiental.
 ---
 ### 🎓 **Mestrando em Ciências Ambientais** | [**PPGCA / UFPA**](https://ufpa.br/)
-*2024 — Presente*
+*2024 — 2026*
 * Pesquisa voltada para a área de Ciências Ambientais, com foco em análise de dados e sensoriamento remoto.
 ---
 ### 🛰️ **Estagiário de Meteorologia** | [**CENSIPAM**](https://www.gov.br/censipam/pt-br)
-*2022 — 2023*
+*2023 — 2023*
 * Análise meteorológica aplicada à proteção e monitoramento da Amazônia.
 * Desenvolvimento de scripts automatizados para visualização de previsão do tempo e análises de satélite.
 * Apoio na elaboração de relatórios técnicos climáticos.
 ---
 ### 🎓 **Pesquisador de Iniciação Científica** | [**UFPA**](https://ufpa.br/)
-*2020 — 2022*
+*2020 — 2024*
 * Desenvolvimento de projetos de pesquisa voltados para meteorologia dinâmica e ciências ambientais.
 * Criação de ferramentas para download e processamento de reanálises climáticas.
 * **Projetos em Destaque:** 
