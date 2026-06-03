@@ -82,6 +82,16 @@ Com uma sólida trajetória acadêmica e profissional, atuo no desenvolvimento d
 
 ---
 ## 💼 **Experiência Profissional**
+
+```mermaid
+timeline
+    title Trajetória Profissional & Acadêmica
+    2020 : UFPA - Pesquisador de Iniciação Científica
+    2022 : CENSIPAM - Estagiário em Meteorologia
+    2024 : PPGCA/UFPA - Mestrado em Ciências Ambientais
+    2026 : I Care Brasil - Analista de Dados```
+```
+
 **🗓️ Linha do Tempo Acadêmica & Profissional**
 * **2020** — 🎓 Pesquisador de Iniciação Científica (UFPA)
 * **2022** — 🛰️ Estagiário em Meteorologia (CENSIPAM)
@@ -122,23 +132,5 @@ Com uma sólida trajetória acadêmica e profissional, atuo no desenvolvimento d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="180" />
 </p>
 ---
-## 🤝 **Vamos Colaborar!**
-Estou sempre aberto a novos desafios e oportunidades de colaboração em projetos de **Ciência de Dados**, **Climatologia/Meteorologia**, **Sensoriamento Remoto** ou na construção de **Pipelines na Nuvem**. Se você tiver interesse em trabalhar em conjunto ou quiser trocar uma ideia, fique à vontade para entrar em contato!
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-coringa/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lucasrangelcoringa@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
-## 💼 **Experiência Profissional**
 
-```mermaid
-timeline
-    title Trajetória Profissional & Acadêmica
-    2020 : UFPA - Pesquisador de Iniciação Científica
-    2022 : CENSIPAM - Estagiário em Meteorologia
-    2024 : PPGCA/UFPA - Mestrado em Ciências Ambientais
-    2026 : I Care Brasil - Analista de Dados
