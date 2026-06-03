@@ -117,14 +117,5 @@ timeline
   * [🌍 Mapas ERA5](https://github.com/lukaasos/era5_land_monthly_python_maps) — Scripts Python para geração de mapas climatológicos automatizados a partir do ERA5-Land.
   * [⛈️ Forecast Maps](https://github.com/lukaasos/forecast_maps) — Visualizações dinâmicas de modelos numéricos de previsão do tempo.
 ---
-## 📊 **Estatísticas do GitHub**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Gerais do Lucas" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaasos&theme=tokyonight&hide_border=true" alt="Streak de Contribuições" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="180" />
-</p>
----
 
 
