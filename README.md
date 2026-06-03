@@ -87,5 +87,5 @@ timeline
     title Trajetória Profissional & Acadêmica
     2020 : UFPA - Pesquisador de Iniciação Científica
     2022 : CENSIPAM - Estagiário em Meteorologia
-    2023 : I Care Brasil - Analista de Dados
     2024 : PPGCA/UFPA - Mestrado em Ciências Ambientais
+    2026 : I Care Brasil - Analista de Dados
