@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lukaasos">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Lucas%20Coringa&fontSize=60&fontAlignY=40&animation=twinkling" alt="Banner de Boas-vindas" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Lucas%20Coringa&fontSize=60&fontAlignY=40&animation=typing" alt="Banner de Boas-vindas" />
   </a>
 </p>
 
