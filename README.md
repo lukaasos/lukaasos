@@ -1,118 +1,91 @@
-# **Olá, eu sou o Lucas!** 👋
+# **Olá, eu sou o Lucas Coringa!** 👋
+
+<p align="center">
+  <a href="https://github.com/lukaasos">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Lucas%20Coringa&fontSize=60&fontAlignY=40&animation=twinkling" alt="Banner de Boas-vindas" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Meteorologista | Analista de Dados | Especialista em Sensoriamento Remoto & Cloud</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-coringa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucasrangelcoringa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
 ## 🌍 **Sobre mim**
 
-Sou meteorologista pela UFPA, Analista de Dados pela EBAC e fui estagiário em meteorologia pelo CENSIPAM. Atualmente sou mestrando em Ciências Ambientais pelo PPGCA. Tenho experiência em pesquisa científica e análise de dados ambientais. Durante minha trajetória, desenvolvi projetos utilizando tecnologias de sensoriamento remoto e análise de dados com python.
+Sou **Meteorologista** formado pela UFPA, **Analista de Dados** certificado pela EBAC e ex-estagiário de Meteorologia pelo CENSIPAM. Atualmente, sou mestrando em **Ciências Ambientais (PPGCA)**, onde aprofundo minhas pesquisas em modelagem climática, geoprocessamento e análise de dados ambientais.
 
-Apaixonado por ciência e tecnologia, estou sempre buscando aprender e aplicar novos conhecimentos em projetos inovadores, especialmente em ciência de dados.
+Com uma sólida trajetória acadêmica e profissional, atuo no desenvolvimento de soluções inovadoras no cruzamento entre ciência climática e tecnologia. Tenho ampla experiência na manipulação de grandes volumes de dados ambientais (Big Data), sensoriamento remoto e automação de pipelines de dados utilizando Python e serviços de computação em nuvem (AWS).
 
-## 🛠️ **Habilidades técnicas**
+---
 
-#### Linguagens  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+## 🛠️ **Habilidades Técnicas**
 
-#### Ferramentas  
-![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=QGIS&logoColor=white) 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black) 
-![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-4285F4?style=flat&logo=Google-Analytics&logoColor=white) 
-![AWS Athena](https://img.shields.io/badge/-AWS%20Athena-232F3E?style=flat&logo=Amazon-AWS&logoColor=FF9900) 
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=Amazon-S3&logoColor=white) 
-![AWS IAM](https://img.shields.io/badge/-AWS%20IAM-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) 
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=AWS-Lambda&logoColor=white)  
+<details open>
+<summary><strong>🐍 Linguagens & Análise de Dados</strong></summary>
+<br />
 
-#### Análise de Dados  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white) 
-![Xarray](https://img.shields.io/badge/-Xarray-EC4D37?style=flat&logo=X&logoColor=white) 
-![GeoPandas](https://img.shields.io/badge/-GeoPandas-008000?style=flat&logo=GeoPandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=Matplotlib&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-0099CC?style=flat&logo=Seaborn&logoColor=white) 
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=Scikit-learn&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=Artificial-Intelligence&logoColor=white)  
+| Tecnologia | Descrição / Uso Principal | Badges |
+| :--- | :--- | :--- |
+| **Python** | Automatização, análise estatística e modelagem | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) |
+| **SQL** | Extração e manipulação de bancos de dados relacionais | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) |
+| **Pandas & NumPy** | Manipulação de dados estruturados e computação numérica | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) |
+| **Xarray & GeoPandas** | Processamento de grades climáticas (NetCDF) e dados vetoriais | ![Xarray](https://img.shields.io/badge/Xarray-EC4D37?style=flat-square&logo=X&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=flat-square&logo=GeoPandas&logoColor=white) |
+| **Machine Learning** | Modelagem preditiva com Scikit-Learn | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white) |
 
-#### Sensoriamento Remoto  
-![GEDI](https://img.shields.io/badge/-GEDI-006400?style=flat&logo=NASA&logoColor=white) 
-![ERA5](https://img.shields.io/badge/-ERA5-1E90FF?style=flat&logo=Copernicus&logoColor=white) 
-![LiDAR](https://img.shields.io/badge/-LiDAR-800080?style=flat&logo=OpenStreetMap&logoColor=white) 
-![MODIS](https://img.shields.io/badge/-MODIS-FF4500?style=flat&logo=NASA&logoColor=white)  
+</details>
 
-#### Computação em Nuvem  
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)  
+<details open>
+<summary><strong>☁️ Computação em Nuvem (AWS) & Big Data</strong></summary>
+<br />
 
-#### Visualização de Dados: 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=Matplotlib&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-0099CC?style=flat&logo=Seaborn&logoColor=white) 
-![Basemap](https://img.shields.io/badge/-Basemap-4682B4?style=flat&logo=Globe&logoColor=white) 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black) 
-![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-4285F4?style=flat&logo=Google-Analytics&logoColor=white) 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)  
+> Experiência na criação de pipelines escaláveis na nuvem Amazon Web Services (AWS) para processamento de dados climáticos e espaciais.
 
-## 📊 **Analytics**
+* **Infraestrutura & Serverless:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=FF9900) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white) ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+* **Storage & Analytics:** ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white) ![AWS Athena](https://img.shields.io/badge/AWS_Athena-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=FF9900)
 
-<table>
-  ![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=lukaasos)
-  <!-- <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=dark&hide_border=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=1800"
-        alt="Top Languages"
-      />
-    </td> -->
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=lukaasos&theme=dark&hide_border=true"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+</details>
 
-## 💼 **Experiência de trabalho**
+<details>
+<summary><strong>🛰️ Sensoriamento Remoto & SIG</strong></summary>
+<br />
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+* **SIG Desktop:** ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white)
+* **Satélites e Sensores:** 
+  * **GEDI** (Lidar espacial da NASA para estrutura de vegetação)
+  * **ERA5** (Reanálise climática do ECMWF)
+  * **MODIS** (Monitoramento orbital de superfície)
+  * **LiDAR** (Nuvem de pontos para altimetria de alta precisão)
 
-<a href="https://icarebrasil.com/">
-  <img align="left" height="94px" width="94px" alt="Transição de Carreira" src="https://icarebrasil.com/wp-content/uploads/2024/01/I-Care.jpg"/>
-</a>
+</details>
 
-**Analista de dados**  
-[**I Care Brasil**](https://icarebrasil.com/) • Full-time  
-Linguagens & Tecnologias: `Python`, `Ciência de Dados`, `Análise de Dados`, `geoprocessamento`, `QGIS`, `Clima`, `Sensoriamento Remoto`, `Computação em Nuvem`, `Amazon Web Services`, `Big Data`. 
+<details>
+<summary><strong>📊 Visualização de Dados & Business Intelligence</strong></summary>
+<br />
 
-<a href="https://www.gov.br/censipam/pt-br">
-  <img align="left" height="94px" width="94px" alt="CENSIPAM" src="https://yt3.googleusercontent.com/5A25qL4vcjyAMiaNYc7cGZOc3VZu14G0PQhAh0er1yG58mfRM_zto9jLVPHD3emezshqf8V2=s900-c-k-c0x00ffffff-no-rj"/>
-</a>
+* **Bibliotecas Python:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat-square&logo=Seaborn&logoColor=white) ![Basemap](https://img.shields.io/badge/Basemap-4682B4?style=flat-square&logo=Globe&logoColor=white)
+* **Ferramentas de BI & Dashboards:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=Google-Analytics&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 
-**Estagiário de Meteorologia**  
-[**Centro Gestor e Operacional do Sistema de Proteção da Amazônia**](https://www.gov.br/censipam/pt-br) • Estágio  
-Analista C&T em Meteorologia: `Meteorologia`, `Python`, `Ciência de Dados`, `Análise de Dados`, `Ciências Ambientais`  
-<br clear="left"/>
+</details>
 
-<a href="https://ufpa.br/">
-  <img align="left" height="94px" width="94px" alt="UFPA" src="https://ascom.ufpa.br/images/Brasao/UFPA.png"/>
-</a>
+---
 
-**Pesquisador de Iniciação Científica**  
-[**Universidade Federal do Pará**](https://ufpa.br/) • Meio Período  
-Ciência: `Python`, `Ciências Ambientais`, `Meteorologia`, `Ciência de Dados`, `Sensoriamento Remoto`, `GIS`, `Análise de Dados`  
-Projetos em destaque: [Mapas ERA5](https://github.com/lukaasos/era5_land_monthly_python_maps), [Forecast Maps](https://github.com/lukaasos/forecast_maps)  
-<br clear="left"/>
+## 💼 **Experiência Profissional**
 
-## 💻 **Vamos colaborar!**
-
-Estou aberto a novas oportunidades para aplicar minhas habilidades em projetos inovadores, seja no setor ambiental, financeiro, ou em outros campos desafiadores. Se você está interessado em colaborar ou tem alguma sugestão, sinta-se à vontade para entrar em contato!
-
-## 📫 **Entre em contato:**
-
-<a href="mailto:lucasrangelcoringa@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/lucas-coringa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+```mermaid
+timeline
+    title Trajetória Profissional & Acadêmica
+    2020 : UFPA - Pesquisador de Iniciação Científica
+    2022 : CENSIPAM - Estagiário em Meteorologia
+    2023 : I Care Brasil - Analista de Dados
+    2024 : PPGCA/UFPA - Mestrado em Ciências Ambientais
