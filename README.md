@@ -81,6 +81,57 @@ Com uma sólida trajetória acadêmica e profissional, atuo no desenvolvimento d
 </details>
 
 ---
+## 💼 **Experiência Profissional**
+**🗓️ Linha do Tempo Acadêmica & Profissional**
+* **2020** — 🎓 Pesquisador de Iniciação Científica (UFPA)
+* **2022** — 🛰️ Estagiário em Meteorologia (CENSIPAM)
+* **2024** — 🎓 Mestrado em Ciências Ambientais (PPGCA/UFPA)
+* **2026** — 🏢 Analista de Dados (I Care Brasil)
+---
+### 🏢 **Analista de Dados** | [**I Care Brasil**](https://icarebrasil.com/)
+*Janeiro de 2026 — Presente*
+* Desenvolvimento de rotinas em `Python` para análise de dados climáticos e modelagem ambiental.
+* Processamento e análise de imagens de satélite e dados de **Sensoriamento Remoto**.
+* Implementação de pipelines escaláveis na nuvem **AWS** (S3, Athena, Lambda).
+* Criação de mapas temáticos no **QGIS** e visualizações de impacto ambiental.
+---
+### 🎓 **Mestrando em Ciências Ambientais** | [**PPGCA / UFPA**](https://ufpa.br/)
+*2024 — Presente*
+* Pesquisa voltada para a área de Ciências Ambientais, com foco em análise de dados e sensoriamento remoto.
+---
+### 🛰️ **Estagiário de Meteorologia** | [**CENSIPAM**](https://www.gov.br/censipam/pt-br)
+*2022 — 2023*
+* Análise meteorológica aplicada à proteção e monitoramento da Amazônia.
+* Desenvolvimento de scripts automatizados para visualização de previsão do tempo e análises de satélite.
+* Apoio na elaboração de relatórios técnicos climáticos.
+---
+### 🎓 **Pesquisador de Iniciação Científica** | [**UFPA**](https://ufpa.br/)
+*2020 — 2022*
+* Desenvolvimento de projetos de pesquisa voltados para meteorologia dinâmica e ciências ambientais.
+* Criação de ferramentas para download e processamento de reanálises climáticas.
+* **Projetos em Destaque:** 
+  * [🌍 Mapas ERA5](https://github.com/lukaasos/era5_land_monthly_python_maps) — Scripts Python para geração de mapas climatológicos automatizados a partir do ERA5-Land.
+  * [⛈️ Forecast Maps](https://github.com/lukaasos/forecast_maps) — Visualizações dinâmicas de modelos numéricos de previsão do tempo.
+---
+## 📊 **Estatísticas do GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukaasos&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Gerais do Lucas" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaasos&theme=tokyonight&hide_border=true" alt="Streak de Contribuições" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaasos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="180" />
+</p>
+---
+## 🤝 **Vamos Colaborar!**
+Estou sempre aberto a novos desafios e oportunidades de colaboração em projetos de **Ciência de Dados**, **Climatologia/Meteorologia**, **Sensoriamento Remoto** ou na construção de **Pipelines na Nuvem**. Se você tiver interesse em trabalhar em conjunto ou quiser trocar uma ideia, fique à vontade para entrar em contato!
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-coringa/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucasrangelcoringa@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ## 💼 **Experiência Profissional**
 
