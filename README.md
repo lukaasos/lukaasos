@@ -23,7 +23,9 @@
 
 ## 🌍 **Sobre mim**
 
-Sou **Meteorologista** formado pela UFPA, **Analista de Dados** certificado pela EBAC e ex-estagiário de Meteorologia pelo CENSIPAM. Atualmente, sou mestrando em **Ciências Ambientais (PPGCA)**, onde aprofundo minhas pesquisas em modelagem climática, geoprocessamento e análise de dados ambientais.
+Sou **Mestre** em Ciências Ambientais (PPGCA/UFPA), **Meteorologista** formado pela UFPA e Analista de Dados certificado pela EBAC. **Ex-estagiário** de Meteorologia pelo CENSIPAM, especializei-me em modelagem climática, geoprocessamento e análise de dados ambientais complexos ao longo da minha pós-graduação.
+
+Atualmente, sou **Analista de Dados** na I Care Brasil, atuando em projetos do polo de Clima, onde aplico soluções de dados para desafios climáticos e ambientais.
 
 Com uma sólida trajetória acadêmica e profissional, atuo no desenvolvimento de soluções inovadoras no cruzamento entre ciência climática e tecnologia. Tenho ampla experiência na manipulação de grandes volumes de dados ambientais (Big Data), sensoriamento remoto e automação de pipelines de dados utilizando Python e serviços de computação em nuvem (AWS).
 
